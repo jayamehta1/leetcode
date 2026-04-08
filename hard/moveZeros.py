@@ -17,4 +17,4 @@ def moveZeroes(nums):
 
 print(moveZeroes([0, 1, 0, 3, 12]))  # Output: [1,3,12,0,0]
 print(moveZeroes([0]))  # Output: [0]
-print(moveZeroes([1, 0, 2, 0, 3, 0, 4]))
+print(moveZeroes([1, 0, 2, 0, 3, 0, 4])) #output
